@@ -118,3 +118,14 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <!-- readme-visual-refresh:artwork-source -->
 [Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
 <!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:execution -->
+## Documentation preview · 17 October 2026
+
+![Preview of the original Quartz frontend README rendered on EHPC. The application and authenticated backend workflow were not run.](assets/readme/execution-result.png)
+
+Preview of the original Quartz frontend README rendered on EHPC. The application and authenticated backend workflow were not run.
+
+[Capture record and checksums](assets/readme/execution-record.json).
+<!-- /readme-visual-refresh:execution -->

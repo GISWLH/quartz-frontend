@@ -1,0 +1,14 @@
+{
+  "repo": "GISWLH/quartz-frontend",
+  "environment": "EHPC PBS",
+  "execution_scope": "Preview of the original Quartz frontend README rendered on EHPC. The application and authenticated backend workflow were not run.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "ccf9031ffc388ba72fd8577e09ea453c156da4ede358e864951d732c5531fa35"
+  },
+  "kind": "documentation preview",
+  "project_execution": false,
+  "browser": "Firefox 91.10 ESR",
+  "source_modified": false
+}
